@@ -122,5 +122,5 @@ Clone the repository and build and run simultaneously:
 </table>
 
 ## 6. References
-[1] [https://bbtarzan12.github.io/Marching-Squares-Part-1/](https://bbtarzan12.github.io/Marching-Squares-Part-1/) 
-
+[1] [https://bbtarzan12.github.io/Marching-Squares-Part-1/](https://bbtarzan12.github.io/Marching-Squares-Part-1/) \
+[2] [https://github.com/tmryan/MarchingSquares/tree/master](https://github.com/tmryan/MarchingSquares/tree/master)
