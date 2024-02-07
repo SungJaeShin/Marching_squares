@@ -23,7 +23,7 @@ Follow [OpenCV](https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.h
 Clone the repository and build and run simultaneously:
 ```
    $ cd ${workspace}
-   $ git clone https://github.com/SungJaeShin/marching_squares.git
+   $ git clone https://github.com/SungJaeShin/Marching_squares.git
    $ cd marching_squares
    $ sh start.sh
 ```
