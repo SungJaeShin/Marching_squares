@@ -14,6 +14,10 @@ Follow [OpenCV](https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.h
 ## 2. Changing Parameters
 ### Parameters in "parameters.h"
 ```
+// Init Image Size
+#define WIDTH  640
+#define HEIGHT 480
+
 // For making interval of grid in image
 #define DIFF_X 10
 #define DIFF_Y 10
