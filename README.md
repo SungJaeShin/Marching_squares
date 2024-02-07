@@ -41,7 +41,9 @@ Clone the repository and build and run simultaneously:
      ○ ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ ○
  p3            c           p2
 
-    {p0, p1, p2, p3} = {0, 0, 1, 0} <-----> {a, b, c, d} = {0, 1, 1, 0}
+    Vertex : p0, p1, p2, p3
+    Edge   : a, b, c, d
+    Rules  : {p0, p1, p2, p3} = {0, 0, 1, 0} <-----> {a, b, c, d} = {0, 1, 1, 0}
 
     // Not Make Any Line
     {0, 0, 0, 0} <-----> {0, 0, 0, 0} = 0
