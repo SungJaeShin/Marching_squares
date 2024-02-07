@@ -84,14 +84,38 @@ Clone the repository and build and run simultaneously:
 ## 5. Results 
 <table>
     <tr>
-       <td> Result w/ vertices  </td>
-       <td> Result w/o vertices </td>
+       <td> Result w/ vertices (grid interval: 10) </td>
+       <td> Result w/o vertices (grid interval: 10) </td>
     </tr>
     <tr>
        <td><img src="./results/marching_grid_img.png"/> </td>
        <td><img src="./results/marching_line_img.png"/> </td>
     </tr>
- </table>
+    <tr>
+       <td> Result w/ vertices (grid interval: 20) </td>
+       <td> Result w/o vertices (grid interval: 20) </td>
+    </tr>
+    <tr>
+       <td><img src="./results/marching_grid_img_20.png"/> </td>
+       <td><img src="./results/marching_line_img_20.png"/> </td>
+    </tr>
+    <tr>
+       <td> Result w/ vertices (grid interval: 30) </td>
+       <td> Result w/o vertices (grid interval: 30) </td>
+    </tr>
+    <tr>
+       <td><img src="./results/marching_grid_img_30.png"/> </td>
+       <td><img src="./results/marching_line_img_30.png"/> </td>
+    </tr>
+    <tr>
+       <td> Result w/ vertices (grid interval: 40) </td>
+       <td> Result w/o vertices (grid interval: 40) </td>
+    </tr>
+    <tr>
+       <td><img src="./results/marching_grid_img_40.png"/> </td>
+       <td><img src="./results/marching_line_img_40.png"/> </td>
+    </tr>
+</table>
 
 ## 6. References
 [1] [https://bbtarzan12.github.io/Marching-Squares-Part-1/](https://bbtarzan12.github.io/Marching-Squares-Part-1/) 
