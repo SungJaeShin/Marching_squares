@@ -10,9 +10,9 @@
 
 int main()
 {
-    // Initialize 640 x 480 Image
-    int width = 640;
-    int height = 480;
+    // Initialize Image : example image size is 640 x 480 Image
+    int width = WIDTH;
+    int height = HEIGHT;
     cv::Mat grid_img = gen_grid_img(width, height);
 
     // Getting Verices Intensity
