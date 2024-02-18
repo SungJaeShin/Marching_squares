@@ -85,6 +85,26 @@ Clone the repository and build and run simultaneously:
     {1, 0, 1, 0} <-----> {1, 1, 1, 1} = 16
 ```
 
+  <table>
+      <tr>
+         <td> Case 1 : Not Make Any Line </td>
+         <td> <img src="./descriptions/not_draw.jpg"/> </td>
+      </tr>
+      <tr>
+         <td> Case 2 : Make Horizontal & Vertical Line </td>
+         <td> <img src="./descriptions/horizontal_vertical_line.jpg"/> </td>
+      </tr>
+      <tr> 
+         <td> Case 3 : Make One Diagonal Line </td>
+         <td> <img src="./descriptions/one_diagonal_line.jpg"/> </td>
+      </tr>
+      <tr>
+         <td> Case 4 : Make Two Diagonal Line  </td>
+         <td> <img src="./descriptions/two_diagonal_lines.jpg"/> </td>
+      </tr>
+  </table>
+
+
 ## 5. Results 
 <table>
     <tr>
